@@ -34,7 +34,7 @@ The extension dynamically reconstructs the puzzle state directly from the webpag
 - DOM Manipulation APIs
 - Browser Event Handling
 - Recursive Backtracking
-- Matrixa & state-space modelling
+- Matrix & state-space modelling
 
 ## Installation
 
